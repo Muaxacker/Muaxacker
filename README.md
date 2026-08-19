@@ -168,7 +168,11 @@ motto: "Transforming ambitious ideas into clean, reliable, and high-impact digit
 ### 🐍 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Muaxacker/Muaxacker/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" onerror="this.src='https://activity-graph.herokuapp.com/graph?username=Muaxacker&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=A855F7&point=F59E0B'" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muaxacker/Muaxacker/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muaxacker/Muaxacker/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Muaxacker/Muaxacker/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
