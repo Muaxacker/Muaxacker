@@ -1,10 +1,12 @@
 <!-- 🌌 Muaxacker GitHub Profile README -->
-<!-- Designed for Muaz Aman | Futuristic & Clean Aesthetic -->
+<!-- Designed for Muaz Aman | Red Code Cyberpunk & Hacker Aesthetic -->
 
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=250&section=header&text=Muaz%20Aman&fontSize=75&animation=fadeIn&fontAlignY=35&desc=Turning%20Ideas%20Into%20High-Impact%20Reality&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" />
+  <!-- Red Code Hacker Silhouette Header Banner -->
+  <img src="./assets/hacker_header.jpg" width="100%" style="border-radius: 14px;" alt="Muaz Aman Red Code Silhouette" />
+
+  <br/><br/>
 
   <!-- Action & Social Badges -->
   <p align="center">
@@ -12,7 +14,7 @@
       <img src="https://img.shields.io/github/followers/Muaxacker?label=Followers&style=social" alt="Followers" />
     </a>
     <a href="https://github.com/Muaxacker?tab=repositories">
-      <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-blueviolet?style=flat-square" alt="Star Repos" />
+      <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-e50914?style=flat-square" alt="Star Repos" />
     </a>
     <a href="https://www.linkedin.com/in/muaz-aman-218441403/" target="_blank">
       <img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=flat-square" alt="LinkedIn" />
@@ -25,15 +27,15 @@
     </a>
   </p>
 
-  <!-- Visitor Counter -->
+  <!-- Visitor Counter in Neon Red -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Muaxacker&label=Visitors&color=0ef7bb&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Muaxacker&label=System%20Access%20Count&color=ff0055&style=flat-square" alt="Profile Views" />
   </p>
 
-  <!-- Dynamic Typing Subtitle (Fully URL Encoded for GitHub Camo) -->
+  <!-- Dynamic Typing Subtitle in Neon Crimson Red -->
   <div align="center">
     <a href="https://github.com/Muaxacker">
-      <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=38&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=750&height=100&lines=Hi+There!+%F0%9F%91%8B;%F0%9F%92%A5+I'm+Muaz+Aman!+%F0%9F%92%A5;%E2%9C%A8+Full-Stack+%26+Mobile+Developer!+%F0%9F%9A%80;%F0%9F%93%B1+Flutter+%26+Dart+Architect!+%F0%9F%92%BB;%F0%9F%8C%BE+AI+%26+Systems+Engineer!+%F0%9F%A7%A0;%E2%9A%A1+Turning+Code+Into+Reality!+%F0%9F%92%A1" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=38&duration=3000&pause=1000&color=FF2A54&center=true&vCenter=true&width=750&height=100&lines=Hi+There!+%F0%9F%91%8B;%F0%9F%92%A5+I'm+Muaz+Aman!+%F0%9F%92%A5;%E2%9C%A8+Full-Stack+%26+Mobile+Developer!+%F0%9F%9A%80;%F0%9F%93%B1+Flutter+%26+Dart+Architect!+%F0%9F%92%BB;%F0%9F%8C%BE+AI+%26+Systems+Engineer!+%F0%9F%A7%A0;%E2%9A%A1+Turning+Code+Into+Reality!+%F0%9F%92%A1" alt="Typing SVG" />
     </a>
   </div>
 
@@ -66,7 +68,7 @@
       </ul>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="assets/avatar.jpg" width="85%" style="border-radius: 12px;" alt="Muaz Cyberpunk Avatar" />
+      <img src="assets/avatar.jpg" width="85%" style="border-radius: 12px;" alt="Muaz Avatar" />
     </td>
   </tr>
 </table>
@@ -106,14 +108,14 @@
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Muaxacker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff&icon_color=8b5cf6&text_color=E2E8F0" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muaxacker&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f2ff&ring=00f2ff&fire=F59E0B&currStreakLabel=00f2ff" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Muaxacker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2A54&icon_color=FF5252&text_color=E2E8F0" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muaxacker&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF2A54&ring=FF2A54&fire=FF2A54&currStreakLabel=FF2A54" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muaxacker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f2ff&text_color=E2E8F0" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muaxacker&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF2A54&text_color=E2E8F0" alt="Top Languages" />
 </div>
 
 ---
@@ -159,7 +161,7 @@
   <br/><br/>
 
   <!-- Animated Bottom Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00f2ff&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,0,2&height=110&section=footer" width="100%" />
 
   <p>⭐️ <i>Crafted with passion by <a href="https://github.com/Muaxacker">Muaz Aman (@Muaxacker)</a></i> ⭐️</p>
 
