@@ -33,7 +33,9 @@
   <!-- Dynamic Typing Header Matching Target Style -->
   <div style="text-align: center;">
     <h1 align="center">
-      <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=38&color=00f2ff&center=true&vCenter=true&width=750&height=90&duration=3500&lines=Hi+There!+👋;+💥+I'm+Muaz+Aman!+💥;+✨+Full-Stack+%26+Mobile+Developer!+🚀;+🌾+AI+%26+Systems+Architect!+🧠;" alt="Typing SVG" />
+      <a href="https://github.com/Muaxacker">
+        <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=38&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=750&height=100&lines=Hi+There!+👋;💥+I'm+Muaz+Aman!+💥;✨+Full-Stack+%26+Mobile+Developer!+🚀;📱+Flutter+%26+Dart+Architect!+💻;🌾+AI+%26+Systems+Engineer!+🧠;⚡+Turning+Code+Into+Reality!+💡" alt="Typing SVG" />
+      </a>
     </h1>
   </div>
 
