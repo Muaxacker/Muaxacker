@@ -30,13 +30,11 @@
     <img src="https://komarev.com/ghpvc/?username=Muaxacker&label=Visitors&color=0ef7bb&style=flat-square" alt="Profile Views" />
   </p>
 
-  <!-- Dynamic Typing Header Matching Target Style -->
-  <div style="text-align: center;">
-    <h1 align="center">
-      <a href="https://github.com/Muaxacker">
-        <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=38&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=750&height=100&lines=Hi+There!+👋;💥+I'm+Muaz+Aman!+💥;✨+Full-Stack+%26+Mobile+Developer!+🚀;📱+Flutter+%26+Dart+Architect!+💻;🌾+AI+%26+Systems+Engineer!+🧠;⚡+Turning+Code+Into+Reality!+💡" alt="Typing SVG" />
-      </a>
-    </h1>
+  <!-- Dynamic Typing Subtitle (Fully URL Encoded for GitHub Camo) -->
+  <div align="center">
+    <a href="https://github.com/Muaxacker">
+      <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=38&duration=3000&pause=1000&color=00F2FF&center=true&vCenter=true&width=750&height=100&lines=Hi+There!+%F0%9F%91%8B;%F0%9F%92%A5+I'm+Muaz+Aman!+%F0%9F%92%A5;%E2%9C%A8+Full-Stack+%26+Mobile+Developer!+%F0%9F%9A%80;%F0%9F%93%B1+Flutter+%26+Dart+Architect!+%F0%9F%92%BB;%F0%9F%8C%BE+AI+%26+Systems+Engineer!+%F0%9F%A7%A0;%E2%9A%A1+Turning+Code+Into+Reality!+%F0%9F%92%A1" alt="Typing SVG" />
+    </a>
   </div>
 
 </div>
@@ -120,11 +118,15 @@
 
 ---
 
-<!-- 📈 Live Activity Graph -->
-<h2 align="center">📈 Contribution Activity Graph</h2>
+<!-- 🐍 Contribution Snake Animation -->
+<h2 align="center">🐍 Contribution Activity Snake</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muaxacker&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00f2ff&line=8b5cf6&point=F59E0B&area=true" width="100%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muaxacker/Muaxacker/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muaxacker/Muaxacker/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/Muaxacker/Muaxacker/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
 </div>
 
 ---
