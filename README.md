@@ -1,141 +1,109 @@
+<!-- 🌌 Muaxacker Cyberpunk & Futuristic GitHub Profile README -->
+<!-- Crafted for Muaz Aman (@Muaxacker) -->
+
 <div align="center">
 
-  <!-- Dynamic Typing SVG Header -->
-  <a href="https://github.com/Muaxacker">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=620&height=100&lines=👋+Hey+there!+I'm+Muaz;⚡+Full-Stack+%26+Mobile+App+Developer;📱+Flutter+%7C+TypeScript+%7C+Python+%7C+React;🚀+Building+Intelligent+%26+Impactful+Software" alt="Typing SVG" />
-  </a>
+  <!-- Dynamic Waving Capsule Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=260&section=header&text=Muaz%20Aman&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Engineer%20%7C%20Building%20Intelligent%20Digital%20Systems&descAlignY=60&descSize=19&fontColor=ffffff" width="100%" />
 
+  <!-- Action & Social Badges Row -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Muaxacker&label=Profile%20Views&color=0ea5e9&style=for-the-badge&logo=github" alt="Profile Views" />
-    <a href="https://github.com/Muaxacker?tab=followers"><img src="https://img.shields.io/github/followers/Muaxacker?label=Followers&logo=github&style=for-the-badge&color=8b5cf6&logoColor=white" alt="Followers" /></a>
-    <a href="https://github.com/Muaxacker?tab=repositories"><img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-ff5252?style=for-the-badge" alt="Open Source" /></a>
+    <a href="https://github.com/Muaxacker?tab=followers">
+      <img src="https://img.shields.io/github/followers/Muaxacker?label=Followers&style=for-the-badge&color=8b5cf6&logo=github&logoColor=white" alt="Followers" />
+    </a>
+    <a href="https://github.com/Muaxacker?tab=repositories">
+      <img src="https://img.shields.io/badge/🌟%20Star%20My%20Repos-38BDF8?style=for-the-badge" alt="Star Repos" />
+    </a>
+    <a href="https://www.linkedin.com/in/muaz-aman-218441403/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://t.me/Avchi11" target="_blank">
+      <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+    </a>
+    <a href="mailto:muazaman134@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
   </p>
 
-  <!-- Animated Wave Header Divider -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=120&section=header" width="100%" />
+  <!-- Visitor Counter -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=Muaxacker&label=Profile%20Views&color=00f2fe&style=for-the-badge" alt="Profile Views" />
+  </p>
+
+  <!-- Dynamic Typing SVG Subtitle -->
+  <div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=26&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=750&height=100&lines=👋+Hey+there!+I'm+Muaz+Aman+🚀;💻+Full-Stack+%26+Flutter+Mobile+Developer+📱;🌾+AI+%26+Early+Warning+Systems+Architect+🧠;⚡+Automating+Workflows+%26+Building+Impactful+Tech+💡" alt="Typing SVG" />
+  </div>
 
 </div>
 
 ---
 
-### 🌟 About Me
-
-```yaml
-name: Muaz
-alias: Muaxacker
-role: Full-Stack & Mobile Developer 💻
-passions:
-  - Mobile Architecture & Cross-Platform Apps (Flutter/Dart)
-  - Full-Stack Web Development & Modern UI/UX Engineering
-  - Machine Learning & Data-Driven Early Warning Systems
-  - Automation & Intelligent Bots
-location: Addis Ababa, Ethiopia 🌍
-motto: "Transforming ambitious ideas into clean, reliable, and high-impact digital experiences."
-```
-
-- 🚀 **What I'm Doing**: Engineering cross-platform mobile apps with Flutter & building responsive, modern web platforms.
-- 🔬 **Data & AI Systems**: Designed and implemented [ECMW-P](https://github.com/Muaxacker/ECMW-P) — an imbalance-aware monthly early warning system for crop market condition forecasting.
-- 💡 **Open Source & Community**: Passionate contributor to open source and community-focused humanitarian tech initiatives like [HelpEthiopia](https://github.com/Muaxacker/HelpEthiopia).
-- ⚡ **Fun Fact**: When I'm not writing code, I'm analyzing system architecture or exploring new tech stacks and automation workflows!
-
----
-
-### 🛠️ Tech Stack & Toolbox
+<!-- ⚡ About Me Section -->
+<h2 align="center">⚡ About Me</h2>
 
 <div align="center">
-
-#### 💻 Programming Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,ts,js,python,html,css,bash&perline=7" alt="Languages" />
-  </a>
-</p>
-
-#### 🚀 Frameworks, Libraries & Mobile
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=flutter,react,tailwind,bootstrap,nodejs,express&perline=6" alt="Frameworks" />
-  </a>
-</p>
-
-#### 🗄️ Backend, Databases & Cloud
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,postgres,docker,githubactions&perline=6" alt="Backend & Cloud" />
-  </a>
-</p>
-
-#### 🧰 Developer Tools & Environment
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,figma,linux&perline=7" alt="Tools" />
-  </a>
-</p>
-
+  <blockquote>
+    <i>“Simplicity is prerequisite for reliability — crafting clean, intelligent, and impactful software.”</i>
+  </blockquote>
 </div>
 
----
-
-### 🔥 Featured Projects & Innovations
+<br/>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📱 ShopEase — Mobile E-Commerce</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/Clean%20Architecture-22c55e?style=flat-square" />
-      </p>
-      <p>A full-featured, sleek cross-platform e-commerce mobile application featuring state-of-the-art catalog browsing, smooth cart management, and seamless UX flows.</p>
-      <p align="center">
-        <a href="https://github.com/Muaxacker/shopease-ecommerce-app"><b>Explore Repository ➔</b></a>
-      </p>
+    <td width="58%" valign="top">
+      <h3>👨‍💻 The Engineer</h3>
+      <ul>
+        <li>👋 I’m <strong>Muaz Aman</strong> (<code>@Muaxacker</code>), a passionate developer based in <strong>Addis Ababa, Ethiopia 🇪🇹</strong>.</li>
+        <li>📱 <strong>Mobile Architecture</strong>: Building slick, reactive cross-platform applications with <strong>Flutter & Dart</strong>.</li>
+        <li>🌐 <strong>Full-Stack Engineering</strong>: Crafting robust web apps with <strong>TypeScript, React, Node.js & Python</strong>.</li>
+        <li>🌾 <strong>AI & Data Systems</strong>: Architected <strong><a href="https://github.com/Muaxacker/ECMW-P">ECMW-P</a></strong> — an imbalance-aware machine learning early warning system for crop market condition forecasting.</li>
+        <li>🤝 <strong>Community & Humanitarian Impact</strong>: Active contributor to open source initiatives like <strong><a href="https://github.com/Muaxacker/HelpEthiopia">HelpEthiopia</a></strong>.</li>
+        <li>⚡ <strong>Passions</strong>: Automation workflows, scalable cloud backends, clean architecture, and UI/UX design.</li>
+      </ul>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌾 ECMW-P — Early Warning System</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Data%20Science-F58025?style=flat-square" />
-        <img src="https://img.shields.io/badge/Machine%20Learning-8b5cf6?style=flat-square" />
-      </p>
-      <p>An imbalance-aware monthly early warning machine learning system for classifying crop market conditions in Ethiopia as Favorable or Unfavorable using historical climate & market data.</p>
-      <p align="center">
-        <a href="https://github.com/Muaxacker/ECMW-P"><b>Explore Repository ➔</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🤖 StreakBot — Automation Engine</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Automation-ff69b4?style=flat-square" />
-        <img src="https://img.shields.io/badge/Bot%20API-00bcd4?style=flat-square" />
-      </p>
-      <p>Lightweight, automated Python-powered task and streak monitoring engine designed for continuous execution and scheduled alerts.</p>
-      <p align="center">
-        <a href="https://github.com/Muaxacker/streakbot"><b>Explore Repository ➔</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 Gaming & Interactive Web Platform</h3>
-      <p align="center">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/Interactive%20UI-a855f7?style=flat-square" />
-      </p>
-      <p>Modern gaming web interface crafted with high-impact visual aesthetics, responsive fluid grid design, and immersive interactive components.</p>
-      <p align="center">
-        <a href="https://github.com/Muaxacker/Gaming-website"><b>Explore Repository ➔</b></a>
-      </p>
+    <td width="42%" valign="middle" align="center">
+      <img src="./assets/avatar.jpg" width="95%" style="border-radius: 16px;" alt="Muaz Avatar" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 GitHub Activity & Real-Time Stats
+<!-- 🛠️ Tech Arsenal Section -->
+<h2 align="center">🛠️ Tech Arsenal & Toolbox</h2>
+
+<div align="center">
+
+| 💻 **Languages** | 📱 **Mobile & Frontend** | ⚙️ **Backend & APIs** |
+|:---:|:---:|:---:|
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=dart,ts,js,python,html,css,bash" alt="Languages" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flutter,react,tailwind,bootstrap,vite" alt="Frontend" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,supabase" alt="Backend" /></a> |
+
+<br/>
+
+| 🗄️ **Databases** | 🧰 **Developer Tools** | 🚀 **DevOps & Cloud** |
+|:---:|:---:|:---:|
+| <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite" alt="Databases" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,postman,figma" alt="Dev Tools" /></a> | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,githubactions,linux,vercel,render" alt="DevOps & Cloud" /></a> |
+
+</div>
+
+---
+
+<!-- 💼 Featured Projects & Innovations Section -->
+<h2 align="center">🚀 Featured Innovations & Projects</h2>
+
+| 🌟 **Project** | 🛠️ **Tech Stack** | 💡 **Focus & Role** | 🔗 **Highlights & Repository** |
+|:---|:---|:---|:---|
+| 📱 **ShopEase** | `Flutter` `Dart` `Clean Arch` | Lead Mobile Developer | Complete cross-platform e-commerce app with dynamic catalog, cart state, and smooth checkout UX. <br/> 👉 [**Explore ShopEase ➔**](https://github.com/Muaxacker/shopease-ecommerce-app) |
+| 🌾 **ECMW-P** | `TypeScript` `Python` `Machine Learning` | AI Systems Architect | Imbalance-aware monthly early warning ML system for forecasting crop market conditions in Ethiopia. <br/> 👉 [**Explore ECMW-P ➔**](https://github.com/Muaxacker/ECMW-P) |
+| 🤖 **StreakBot** | `Python` `Bot API` `Automation` | Core Backend Developer | Continuous task monitoring & streak engine designed for automated cron jobs and scheduled notifications. <br/> 👉 [**Explore StreakBot ➔**](https://github.com/Muaxacker/streakbot) |
+| 🌐 **Gaming Web Platform** | `HTML5` `CSS3` `JavaScript` | Frontend UI/UX Developer | High-impact interactive gaming web interface featuring fluid grid layouts, micro-animations, and rich responsive aesthetics. <br/> 👉 [**Explore Gaming Website ➔**](https://github.com/Muaxacker/Gaming-website) |
+
+---
+
+<!-- 📊 GitHub Activity & Real-Time Stats -->
+<h2 align="center">📊 GitHub Activity & Analytics</h2>
 
 <div align="center">
 
@@ -143,12 +111,12 @@ motto: "Transforming ambitious ideas into clean, reliable, and high-impact digit
     <tr style="border: none;">
       <td style="border: none;" align="center" width="50%">
         <a href="https://github.com/Muaxacker">
-          <img src="https://github-readme-stats.vercel.app/api?username=Muaxacker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A855F7&text_color=E2E8F0&count_private=true" alt="Muaxacker's GitHub Stats" width="100%" />
+          <img src="https://github-readme-stats.vercel.app/api?username=Muaxacker&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A855F7&text_color=E2E8F0&count_private=true" alt="Muaz's GitHub Stats" width="100%" />
         </a>
       </td>
       <td style="border: none;" align="center" width="50%">
         <a href="https://github.com/Muaxacker">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muaxacker&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="Muaxacker's Streak" width="100%" />
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Muaxacker&theme=tokyonight&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=F59E0B&currStreakLabel=38BDF8" alt="Muaz's Streak Stats" width="100%" />
         </a>
       </td>
     </tr>
@@ -165,7 +133,8 @@ motto: "Transforming ambitious ideas into clean, reliable, and high-impact digit
 
 ---
 
-### 🐍 Contribution Activity Graph
+<!-- 🐍 Contribution Snake Animation -->
+<h2 align="center">🐍 Contribution Activity Graph</h2>
 
 <div align="center">
   <picture>
@@ -177,11 +146,12 @@ motto: "Transforming ambitious ideas into clean, reliable, and high-impact digit
 
 ---
 
-### 🤝 Connect & Collaborate
+<!-- 🤝 Connect & Collaborate -->
+<h2 align="center">🤝 Let's Connect & Build Together</h2>
 
 <div align="center">
 
-  <p>Got a project idea, open-source collaboration, or opportunity? Let's build something awesome together!</p>
+  <p>Have an exciting opportunity, open-source project, or idea? Reach out and let's collaborate!</p>
 
   <a href="https://github.com/Muaxacker" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -196,20 +166,16 @@ motto: "Transforming ambitious ideas into clean, reliable, and high-impact digit
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-</div>
-
----
-
-<div align="center">
+  <br /><br />
 
   <!-- Dynamic Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Dev Quote" />
 
   <br /><br />
 
   <!-- Animated Bottom Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=110&section=footer" width="100%" />
 
-  <p>⭐️ <i>Crafted with passion by <a href="https://github.com/Muaxacker">Muaz (@Muaxacker)</a></i> ⭐️</p>
+  <p>⭐️ <i>Crafted with passion by <a href="https://github.com/Muaxacker">Muaz Aman (@Muaxacker)</a></i> ⭐️</p>
 
 </div>
